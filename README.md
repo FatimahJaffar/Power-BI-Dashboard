@@ -19,7 +19,7 @@ Cleaned, shaped, and prepared the raw data for analysis by handling blanks, chan
 
 ![Home page](images/1.png)
 This screen serves as a **menu or navigation hub** within Power BI, allowing users to jump between different visualization-related topics or dashboards such as:
-Common chart types (bar, columns, line, area, maps, tables)s
+Common chart types (bar, columns, line, area, maps, tables)
 
 ![Home page](images/2.png)
 This Power BI dashboard is designed to **compare job salaries and education requirements** in the data field, answering questions such as:
@@ -65,4 +65,5 @@ This dashboard gives a 2024-focused view of the data job market, including:
 It provides a forward-looking analysis of the data jobs ecosystem in 2024.
 
 ## Conclusion
+
 This dasboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make infromed decisions about their career paths.
