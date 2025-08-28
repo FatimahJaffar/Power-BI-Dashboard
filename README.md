@@ -1,4 +1,4 @@
-# Data Jobs Dashboard w/Power Pi
+# Data Jobs Dashboard w/Power BI
 ![alt dashboard screenshot](images/3.png)
 ## Introduction
 
@@ -67,3 +67,4 @@ It provides a forward-looking analysis of the data jobs ecosystem in 2024.
 ## Conclusion
 
 This dasboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make infromed decisions about their career paths.
+
